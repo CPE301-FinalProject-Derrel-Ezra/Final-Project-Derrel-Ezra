@@ -2,6 +2,9 @@
 Final Project of CPE 301 Spring 2023
 
 Contributors: Derrel Archellian, Ezra Sutedjo
+Assignments:
+Derrel: Circuit Design, Coding, and Video
+Ezra: Circuit Design, Coding, and technical documentation
 
 Video Link: https://drive.google.com/file/d/1SNwPDpw4H2H5pDzIl-QmDdEoINr9pxAs/view?usp=share_link
 

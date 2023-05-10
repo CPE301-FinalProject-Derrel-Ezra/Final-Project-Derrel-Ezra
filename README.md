@@ -7,7 +7,7 @@ Assignments:
 
 Derrel: Circuit Design, Coding, and Video
 
-Ezra: Circuit Design, Coding, and technical documentation
+Ezra: Circuit Design, Coding, and Technical Documentation
 
 Video Link: https://drive.google.com/file/d/1SNwPDpw4H2H5pDzIl-QmDdEoINr9pxAs/view?usp=share_link
 
